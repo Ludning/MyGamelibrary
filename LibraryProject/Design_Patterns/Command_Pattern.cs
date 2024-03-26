@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LibraryProject.String_Processing_Algorithm.String_Comparison
+namespace LibraryProject.Design_Patterns
 {
-    internal class Levenshtein
+    internal class Command_Pattern
     {
     }
 }
