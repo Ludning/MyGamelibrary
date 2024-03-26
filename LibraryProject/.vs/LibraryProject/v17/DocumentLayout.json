@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\KGA\\Desktop\\Github\\MyGamelibrary\\LibraryProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C48366CA-C8C4-4F74-A3E4-EF79150A9445}|LibraryProject.csproj|c:\\users\\kga\\desktop\\github\\mygamelibrary\\libraryproject\\design_patterns\\singleton_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C48366CA-C8C4-4F74-A3E4-EF79150A9445}|LibraryProject.csproj|solutionrelative:design_patterns\\singleton_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48366CA-C8C4-4F74-A3E4-EF79150A9445}|LibraryProject.csproj|c:\\users\\kga\\desktop\\github\\mygamelibrary\\libraryproject\\design_patterns\\object_pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C48366CA-C8C4-4F74-A3E4-EF79150A9445}|LibraryProject.csproj|solutionrelative:design_patterns\\object_pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C48366CA-C8C4-4F74-A3E4-EF79150A9445}|LibraryProject.csproj|c:\\users\\kga\\desktop\\github\\mygamelibrary\\libraryproject\\design_patterns\\command_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C48366CA-C8C4-4F74-A3E4-EF79150A9445}|LibraryProject.csproj|solutionrelative:design_patterns\\command_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C48366CA-C8C4-4F74-A3E4-EF79150A9445}|LibraryProject.csproj|c:\\users\\kga\\desktop\\github\\mygamelibrary\\libraryproject\\design_patterns\\composite_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C48366CA-C8C4-4F74-A3E4-EF79150A9445}|LibraryProject.csproj|solutionrelative:design_patterns\\composite_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C48366CA-C8C4-4F74-A3E4-EF79150A9445}|LibraryProject.csproj|c:\\users\\kga\\desktop\\github\\mygamelibrary\\libraryproject\\design_patterns\\object_pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C48366CA-C8C4-4F74-A3E4-EF79150A9445}|LibraryProject.csproj|solutionrelative:design_patterns\\object_pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C48366CA-C8C4-4F74-A3E4-EF79150A9445}|LibraryProject.csproj|c:\\users\\kga\\desktop\\github\\mygamelibrary\\libraryproject\\design_patterns\\state_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,11 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Singleton_Pattern.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Github\\MyGamelibrary\\LibraryProject\\Design_Patterns\\Singleton_Pattern.cs",
+              "RelativeDocumentMoniker": "Design_Patterns\\Singleton_Pattern.cs",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\Github\\MyGamelibrary\\LibraryProject\\Design_Patterns\\Singleton_Pattern.cs",
+              "RelativeToolTip": "Design_Patterns\\Singleton_Pattern.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T08:51:50.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Flyweight_Pattern.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Github\\MyGamelibrary\\LibraryProject\\Design_Patterns\\Flyweight_Pattern.cs",
               "RelativeDocumentMoniker": "Design_Patterns\\Flyweight_Pattern.cs",
@@ -58,12 +75,11 @@
               "RelativeToolTip": "Design_Patterns\\Flyweight_Pattern.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T06:31:37.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T06:31:37.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Proxy_Pattern.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Github\\MyGamelibrary\\LibraryProject\\Design_Patterns\\Proxy_Pattern.cs",
               "RelativeDocumentMoniker": "Design_Patterns\\Proxy_Pattern.cs",
@@ -71,12 +87,11 @@
               "RelativeToolTip": "Design_Patterns\\Proxy_Pattern.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T06:31:27.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T06:31:27.845Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Observer_Pattern.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Github\\MyGamelibrary\\LibraryProject\\Design_Patterns\\Observer_Pattern.cs",
               "RelativeDocumentMoniker": "Design_Patterns\\Observer_Pattern.cs",
@@ -84,12 +99,11 @@
               "RelativeToolTip": "Design_Patterns\\Observer_Pattern.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T06:31:14.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T06:31:14.965Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Command_Pattern.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Github\\MyGamelibrary\\LibraryProject\\Design_Patterns\\Command_Pattern.cs",
               "RelativeDocumentMoniker": "Design_Patterns\\Command_Pattern.cs",
@@ -102,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Composite_Pattern.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Github\\MyGamelibrary\\LibraryProject\\Design_Patterns\\Composite_Pattern.cs",
               "RelativeDocumentMoniker": "Design_Patterns\\Composite_Pattern.cs",
@@ -110,25 +124,24 @@
               "RelativeToolTip": "Design_Patterns\\Composite_Pattern.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T06:30:52.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T06:30:52.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Object_Pool.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Github\\MyGamelibrary\\LibraryProject\\Design_Patterns\\Object_Pool.cs",
               "RelativeDocumentMoniker": "Design_Patterns\\Object_Pool.cs",
               "ToolTip": "C:\\Users\\KGA\\Desktop\\Github\\MyGamelibrary\\LibraryProject\\Design_Patterns\\Object_Pool.cs",
               "RelativeToolTip": "Design_Patterns\\Object_Pool.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwCsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T06:30:41.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "State_Pattern.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Github\\MyGamelibrary\\LibraryProject\\Design_Patterns\\State_Pattern.cs",
               "RelativeDocumentMoniker": "Design_Patterns\\State_Pattern.cs",
@@ -136,12 +149,11 @@
               "RelativeToolTip": "Design_Patterns\\State_Pattern.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T06:30:31.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T06:30:31.901Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Game_Loop_Pattern.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Github\\MyGamelibrary\\LibraryProject\\Design_Patterns\\Game_Loop_Pattern.cs",
               "RelativeDocumentMoniker": "Design_Patterns\\Game_Loop_Pattern.cs",
@@ -149,12 +161,11 @@
               "RelativeToolTip": "Design_Patterns\\Game_Loop_Pattern.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T06:30:12.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T06:30:12.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Stack.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Github\\MyGamelibrary\\LibraryProject\\Data_Structure\\Stack.cs",
               "RelativeDocumentMoniker": "Data_Structure\\Stack.cs",
@@ -162,8 +173,7 @@
               "RelativeToolTip": "Data_Structure\\Stack.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T04:48:51.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T04:48:51.978Z"
             }
           ]
         }
