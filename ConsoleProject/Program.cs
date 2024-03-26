@@ -1,4 +1,6 @@
-﻿namespace LibraryProject
+﻿using LibraryProject;
+
+namespace ConsoleProject
 {
     internal class Program
     {

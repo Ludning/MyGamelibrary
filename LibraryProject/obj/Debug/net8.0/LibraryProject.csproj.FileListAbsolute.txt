@@ -1,0 +1,11 @@
+C:\Users\KGA\Desktop\Github\MyGamelibrary\LibraryProject\bin\Debug\net8.0\LibraryProject.deps.json
+C:\Users\KGA\Desktop\Github\MyGamelibrary\LibraryProject\bin\Debug\net8.0\LibraryProject.dll
+C:\Users\KGA\Desktop\Github\MyGamelibrary\LibraryProject\bin\Debug\net8.0\LibraryProject.pdb
+C:\Users\KGA\Desktop\Github\MyGamelibrary\LibraryProject\obj\Debug\net8.0\LibraryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KGA\Desktop\Github\MyGamelibrary\LibraryProject\obj\Debug\net8.0\LibraryProject.AssemblyInfoInputs.cache
+C:\Users\KGA\Desktop\Github\MyGamelibrary\LibraryProject\obj\Debug\net8.0\LibraryProject.AssemblyInfo.cs
+C:\Users\KGA\Desktop\Github\MyGamelibrary\LibraryProject\obj\Debug\net8.0\LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Desktop\Github\MyGamelibrary\LibraryProject\obj\Debug\net8.0\LibraryProject.dll
+C:\Users\KGA\Desktop\Github\MyGamelibrary\LibraryProject\obj\Debug\net8.0\refint\LibraryProject.dll
+C:\Users\KGA\Desktop\Github\MyGamelibrary\LibraryProject\obj\Debug\net8.0\LibraryProject.pdb
+C:\Users\KGA\Desktop\Github\MyGamelibrary\LibraryProject\obj\Debug\net8.0\ref\LibraryProject.dll
