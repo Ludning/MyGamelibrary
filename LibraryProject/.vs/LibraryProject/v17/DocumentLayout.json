@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\KGA\\Desktop\\Github\\MyGamelibrary\\LibraryProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C48366CA-C8C4-4F74-A3E4-EF79150A9445}|LibraryProject.csproj|c:\\users\\kga\\desktop\\github\\mygamelibrary\\libraryproject\\graph_algorithm\\a_star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C48366CA-C8C4-4F74-A3E4-EF79150A9445}|LibraryProject.csproj|solutionrelative:graph_algorithm\\a_star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C48366CA-C8C4-4F74-A3E4-EF79150A9445}|LibraryProject.csproj|c:\\users\\kga\\desktop\\github\\mygamelibrary\\libraryproject\\data_structure\\linked_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C48366CA-C8C4-4F74-A3E4-EF79150A9445}|LibraryProject.csproj|solutionrelative:data_structure\\linked_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C48366CA-C8C4-4F74-A3E4-EF79150A9445}|LibraryProject.csproj|c:\\users\\kga\\desktop\\github\\mygamelibrary\\libraryproject\\design_patterns\\flyweight_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C48366CA-C8C4-4F74-A3E4-EF79150A9445}|LibraryProject.csproj|c:\\users\\kga\\desktop\\github\\mygamelibrary\\libraryproject\\design_patterns\\game_loop_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C48366CA-C8C4-4F74-A3E4-EF79150A9445}|LibraryProject.csproj|solutionrelative:design_patterns\\game_loop_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C48366CA-C8C4-4F74-A3E4-EF79150A9445}|LibraryProject.csproj|c:\\users\\kga\\desktop\\github\\mygamelibrary\\libraryproject\\data_structure\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C48366CA-C8C4-4F74-A3E4-EF79150A9445}|LibraryProject.csproj|solutionrelative:data_structure\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,14 +51,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "A_star.cs",
-              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Github\\MyGamelibrary\\LibraryProject\\Graph_Algorithm\\A_star.cs",
-              "RelativeDocumentMoniker": "Graph_Algorithm\\A_star.cs",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\Github\\MyGamelibrary\\LibraryProject\\Graph_Algorithm\\A_star.cs",
-              "RelativeToolTip": "Graph_Algorithm\\A_star.cs",
-              "ViewState": "AQIAAJgAAAAAAAAAAAAAAKQAAAAJAAAA",
+              "Title": "Linked_List.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Github\\MyGamelibrary\\LibraryProject\\Data_Structure\\Linked_List.cs",
+              "RelativeDocumentMoniker": "Data_Structure\\Linked_List.cs",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\Github\\MyGamelibrary\\LibraryProject\\Data_Structure\\Linked_List.cs",
+              "RelativeToolTip": "Data_Structure\\Linked_List.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAnwHMAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T03:09:41.778Z",
+              "WhenOpened": "2024-03-27T07:32:35.007Z",
               "EditorCaption": ""
             },
             {
@@ -73,9 +69,10 @@
               "RelativeDocumentMoniker": "Design_Patterns\\Flyweight_Pattern.cs",
               "ToolTip": "C:\\Users\\KGA\\Desktop\\Github\\MyGamelibrary\\LibraryProject\\Design_Patterns\\Flyweight_Pattern.cs",
               "RelativeToolTip": "Design_Patterns\\Flyweight_Pattern.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T06:31:37.665Z"
+              "WhenOpened": "2024-03-26T06:31:37.665Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -160,18 +157,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T06:30:12.801Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Stack.cs",
-              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\Github\\MyGamelibrary\\LibraryProject\\Data_Structure\\Stack.cs",
-              "RelativeDocumentMoniker": "Data_Structure\\Stack.cs",
-              "ToolTip": "C:\\Users\\KGA\\Desktop\\Github\\MyGamelibrary\\LibraryProject\\Data_Structure\\Stack.cs",
-              "RelativeToolTip": "Data_Structure\\Stack.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T04:48:51.978Z"
             }
           ]
         }
