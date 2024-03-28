@@ -121,8 +121,21 @@ namespace LibraryProject.Data_Structure
         }
         internal void Remove(Node<T> node)
         {
+            Node<T> cursor = head;
+            while (cursor.next != null)
+            {
+                if(cursor.next.Equals(node))
+                {
+                    Node<T> left = cursor;
+                    Node<T> right = cursor.next.next;
+                    left.next = right;
+                    count--;
+                    break;
+                }
+                cursor = cursor.next;
+            }
         }
-        internal void Clear()
+        /*internal void Clear()
         {
         }
         internal bool Contains(Node<T> node)
@@ -136,7 +149,7 @@ namespace LibraryProject.Data_Structure
         }
         internal void GetEnumerator()
         {
-        }
+        }*/
         
         /*
         AddFirst(T value): 리스트의 맨 앞에 요소를 추가합니다.
